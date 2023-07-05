@@ -14,7 +14,7 @@
 
 ## :dart: A propos
 
-Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automate your searches, be alerted to new listings and never miss the bargains. On the standard and premium versions, it is possible to sell access to your robot, which generates additional income. Here are the many benefits :
+Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automate your searches, be alerted to new listings and never miss the bargains. On the standard and premium versions, it is possible to sell access to your robot, which generates additional income. 
 
 ## :sparkles: Fonctionnalités
 
