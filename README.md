@@ -16,14 +16,6 @@
 
 Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automate your searches, be alerted to new listings and never miss the bargains. On the standard and premium versions, it is possible to sell access to your robot, which generates additional income
 
-<html>
-  <body>
-    <h2>Steve Jobs - How to Live before You Die</h2>
-    <p>At his Stanford University commencement speech, Steve Jobs, CEO and co-founder of Apple and Pixar, urges us to pursue our dreams and see the opportunities in life's setbacks - including death itself.</p>
-    <iframe width="500" height="320" src="https://www.youtube.com/embed/lcZDWo6hiuI"> </iframe>
-  </body>
-</html>
-
 ## :sparkles: Fonctionnalités
 
 ✔ No delay (Standard and Premium)
