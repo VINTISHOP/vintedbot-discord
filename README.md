@@ -1,4 +1,4 @@
-<h1 align="center">Bot Vinted Discord</h1>
+<h1 align="center">Bot Vinted Discord (Paying) </h1>
 
 <p align="center">
   <img alt="node" src="https://img.shields.io/node/v/discord.js?style=for-the-badge">
@@ -10,7 +10,7 @@
 
 <br>
 
-:warning: The code is not open source, to be able to launch the creation of the bot contact me on discord: .benjibenji
+:warning: The code is not open source, to be able to launch the creation of the bot contact me on discord: .benjibenji or join https://discord.gg/N6xDCEs2QH
 
 ## :dart: A propos
 
@@ -18,12 +18,12 @@ Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automat
 
 ## :sparkles: Fonctionnalités
 
-✔ No delay (Standard and Premium)
-✔ Unlimited links. (Standard and Premium)
+✔ No delay 
+✔ Unlimited links. 
 ✔ Supports multiple vinted marketplaces ( UK, US, FR, CA and more )
 ✔ Bot maintenance
 ✔ Easy to use
 
 ## :hammer_and_pick: Utilisation du bot
 
-For me to create your discord bot contact me on discord : .benjibenji
+For me to create your discord bot contact me on discord : .benjibenji or join https://discord.gg/N6xDCEs2QH
