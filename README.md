@@ -12,11 +12,11 @@
 
 :warning: The code is not open source, to be able to launch the creation of the bot contact me on discord: .benjibenji or join https://discord.gg/N6xDCEs2QH
 
-## :dart: A propos
+## :dart: About
 
 Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automate your searches, be alerted to new listings and never miss the bargains. On the standard and premium versions, it is possible to sell access to your robot, which generates additional income
 
-## :sparkles: Fonctionnalités
+## :sparkles: Features of
 
 ✔ No delay 
 ✔ Unlimited links. 
@@ -24,6 +24,6 @@ Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automat
 ✔ Bot maintenance
 ✔ Easy to use
 
-## :hammer_and_pick: Utilisation du bot
+## :hammer_and_pick: Using the bot
 
 For me to create your discord bot contact me on discord : .benjibenji or join https://discord.gg/N6xDCEs2QH
