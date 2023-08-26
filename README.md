@@ -5,6 +5,8 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
+:warning: The code is not open source, to be able to launch the installatuin of the bot contact me on discord: .benjibenji or join https://discord.gg/N6xDCEs2QH
+
 <h2 align="center">📷 Présentation du bot</h2>
 <p align="center">Voici quelque image du bot</p>
 <p align="center">
@@ -18,11 +20,11 @@
 
 <br>
 
-:warning: The code is not open source, to be able to launch the creation of the bot contact me on discord: .benjibenji or join https://discord.gg/N6xDCEs2QH
+
 
 ## :dart: About
 
-Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automate your searches, be alerted to new listings and never miss the bargains. On the standard and premium versions, it is possible to sell access to your robot, which generates additional income
+After a long period of research, you are still looking for a Bot Vinted, we are delighted to reveal our solution to you with an optimal delay. If you have any questions before proceeding with an order, we invite you to join our Discord server.
 
 ## :sparkles: Features of
 
@@ -34,4 +36,4 @@ Discover the Bot Vinted, your ultimate ally to dominate online shopping! Automat
 
 ## :hammer_and_pick: Using the bot
 
-For me to create your discord bot contact me on discord : .benjibenji or join https://discord.gg/N6xDCEs2QH
+For me to installation your discord bot contact me on discord : .benjibenji or join https://discord.gg/N6xDCEs2QH
