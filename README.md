@@ -3,8 +3,7 @@
 <p align="center">
   <img alt="node" src="https://img.shields.io/node/v/discord.js?style=for-the-badge">
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
-  <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge](https://media.discordapp.net/attachments/1143867667258806402/1143891090726989864/Capture_decran_2023-08-23_a_14.53.40.png?width=3744&height=2168">
-
+   <src="https://banque.images.com/image-de-paragraphe.jpeg" alt="texte alternatif](https://media.discordapp.net/attachments/1143867667258806402/1143891090726989864/Capture_decran_2023-08-23_a_14.53.40.png?width=3744&height=2168">
 </p>
 
 <hr>
