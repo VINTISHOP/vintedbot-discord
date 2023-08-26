@@ -3,9 +3,16 @@
 <p align="center">
   <img alt="node" src="https://img.shields.io/node/v/discord.js?style=for-the-badge">
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
-   <src="https://banque.images.com/image-de-paragraphe.jpeg" alt="texte alternatif](https://media.discordapp.net/attachments/1143867667258806402/1143891090726989864/Capture_decran_2023-08-23_a_14.53.40.png?width=3744&height=2168">
 </p>
 
+<h2 align="center">📷 Présentation du bot</h2>
+<p align="center">Voici quelque image du bot</p>
+<p align="center">
+<img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1143891090726989864/Capture_decran_2023-08-23_a_14.53.40.png?width=3744&height=2168"></img>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1144237851194703892/1144697970713960478/image.png?width=1562&height=1920"></img>
+ </p>
 <hr>
 
 
