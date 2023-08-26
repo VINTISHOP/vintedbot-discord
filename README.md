@@ -7,8 +7,8 @@
 
 :warning: The code is not open source, to be able to launch the installatuin of the bot contact me on discord: .benjibenji or join https://discord.gg/N6xDCEs2QH
 
-<h2 align="center">📷 Présentation du bot</h2>
-<p align="center">Voici quelque image du bot</p>
+<h2 align="center">📷 Presentation of the bot</h2>
+<p align="center">Here is some image of the bot :</p>
 <p align="center">
 <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1143891090726989864/Capture_decran_2023-08-23_a_14.53.40.png?width=3744&height=2168"></img>
 </p>
