@@ -10,6 +10,8 @@
 <h2 align="center">📷 Presentation of the bot</h2>
 <p align="center">Here is some image of the bot :</p>
 <p align="center">
+  <img align="center" src="https://cdn.discordapp.com/attachments/1143867667258806402/1152698159852687381/FINAL_GOOD.png"></img>
+</p>
 <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1143891090726989864/Capture_decran_2023-08-23_a_14.53.40.png?width=3744&height=2168"></img>
 </p>
 <p align="center">
