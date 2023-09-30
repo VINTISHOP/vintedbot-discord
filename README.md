@@ -8,7 +8,7 @@
 :warning: The code is not open source, to be able to launch the installatuin of the bot contact me on discord: .benjibenji or join https://discord.gg/N6xDCEs2QH
 
 <h2 align="center">📷 Presentation of the bot</h2>
-<p align="center">Here is some image of the bot :</p>
+<p align="center">INFORMATION</p>
 <p align="center">
   <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1157762947771285514/US_PRODUCT.png?ex=6519ca44&is=651878c4&hm=f65ee0d9aa57289af62e395bdf6b80d138a5cbefb1ea9b71b8ee2991c584ce57&=&width=2560&height=1600"></img>
 </p>
@@ -25,9 +25,22 @@
 
 
 
-## :dart: About
+## :dart: FAQ
 
-After a long period of research, you are still looking for a Bot Vinted, we are delighted to reveal our solution to you with an optimal delay. If you have any questions before proceeding with an order, we invite you to join our Discord server.
+**What is the difference between me and other providers ?**
+We not only offer access to a discord but allow you to have an independent Vinted Bot on your discord server, which allows you to post the articles you want and invite your friends.
+
+**Is the bot a monthly or one-time payment ?**
+The price marked is a single payment and you must add a subscription of 4 euros per month.
+
+**Is the bot equipped with 0 delay ?**
+Yes, the bot is equipped with 0 delay technology, announcements arrive instantly with a notification.
+
+**What payment methods are available ?**
+You can pay by credit card, PayPal, Apple Pay...
+
+**Which package should I choose ?**
+Even if you don't know how to find your package, you can open a ticket and we will discuss which plan suits you best !
 
 ## :sparkles: Features of
 
