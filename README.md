@@ -16,7 +16,7 @@
   <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1157762918591504505/PRODUCT_US_ET_FR.png?ex=6519ca3d&is=651878bd&hm=d8fc5be59a2acfbc85fd0c19e86ecf053e3ff61c64c20760c75e3bc81739ebcc&=&width=2560&height=1600"></img>
 </p>
 <p align="center">
- <img src="https://media.discordapp.net/attachments/1144237851194703892/1144697970713960478/image.png?width=1562&height=1920"></img>
+ <img src="https://media.discordapp.net/attachments/1153761928913625188/1153768675422261248/image.png?ex=65191a10&is=6517c890&hm=2202b6f94b0f92a54d44fbcd1e110598648980e5fd5c7fcecae89d10b96b95ad&=&width=2046&height=1840"></img>
  </p>
 <hr>
 
