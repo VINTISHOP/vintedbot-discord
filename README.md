@@ -1,4 +1,4 @@
-<h1 align="center">Bot Vinted Discord (Paying) </h1>
+<h1 align="center">Bot Vinted Discord</h1>
 
 <p align="center">
   <img alt="node" src="https://img.shields.io/node/v/discord.js?style=for-the-badge">
@@ -10,7 +10,10 @@
 <h2 align="center">📷 Presentation of the bot</h2>
 <p align="center">Here is some image of the bot :</p>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1143867667258806402/1152698159852687381/FINAL_GOOD.png"></img>
+  <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1157762947771285514/US_PRODUCT.png?ex=6519ca44&is=651878c4&hm=f65ee0d9aa57289af62e395bdf6b80d138a5cbefb1ea9b71b8ee2991c584ce57&=&width=2560&height=1600"></img>
+</p>
+<p align="center">
+  <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1157762918591504505/PRODUCT_US_ET_FR.png?ex=6519ca3d&is=651878bd&hm=d8fc5be59a2acfbc85fd0c19e86ecf053e3ff61c64c20760c75e3bc81739ebcc&=&width=2560&height=1600"></img>
 </p>
 <p align="center">
  <img src="https://media.discordapp.net/attachments/1144237851194703892/1144697970713960478/image.png?width=1562&height=1920"></img>
