@@ -5,7 +5,7 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
-:warning: The code is not open source, to be able to launch the installatuin of the bot contact me on discord: .benjibenji or join https://discord.gg/N6xDCEs2QH
+:warning: The code is not open source, to be able to launch the installatuin of the bot contact me on discord: .benjibenji or join http://discord.gg/FweRrkQYPb
 
 <h2 align="center">📷 Presentation of the bot</h2>
 <p align="center">INFORMATION</p>
@@ -52,4 +52,4 @@ Even if you don't know how to find your package, you can open a ticket and we wi
 
 ## :hammer_and_pick: Using the bot
 
-For me to installation your discord bot contact me on discord : .benjibenji or join https://discord.gg/N6xDCEs2QH
+For me to installation your discord bot contact me on discord : .benjibenji or join http://discord.gg/FweRrkQYPb
