@@ -10,13 +10,13 @@
 <h2 align="center">📷 Presentation of the bot</h2>
 <p align="center">INFORMATION</p>
 <p align="center">
-  <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1160596279806656632/1.png?ex=65353c83&is=6522c783&hm=6864f917f7702ebb6ba48b9f36b886b7c0ebe79e233541a77ae26cf651aa04df&=&width=2560&height=1600"></img>
+  <img align="center" src="https://media.discordapp.net/attachments/817075211165106187/1197675997236056105/1.png?ex=65bc21b1&is=65a9acb1&hm=45479dbb6a58497d0d01ed60408424d2d7bbfb3a1348c94aed06ded057c2c9f3&=&format=webp&quality=lossless&width=1908&height=1194"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://media.discordapp.net/attachments/1143867667258806402/1160596293824028722/2.png?ex=65353c87&is=6522c787&hm=3fe670d1ee52f1a3aca91214e72c64eda3c1d0c91c839ebec4fef4899937803b&=&width=2560&height=1600"></img>
+  <img align="center" src="https://media.discordapp.net/attachments/1197463068196753440/1197674689976344656/1.png?ex=65bc2079&is=65a9ab79&hm=f37eb274cbfedbce11a703cadcf327e55e0e0855ce270e7c3777e66fe2641e5b&=&format=webp&quality=lossless&width=1908&height=1194"></img>
 </p>
 <p align="center">
- <img src="https://media.discordapp.net/attachments/1153761928913625188/1153768675422261248/image.png?ex=65191a10&is=6517c890&hm=2202b6f94b0f92a54d44fbcd1e110598648980e5fd5c7fcecae89d10b96b95ad&=&width=2046&height=1840"></img>
+ <img src="https://media.discordapp.net/attachments/817075211165106187/1200084231536254976/Capture_decran_2024-01-25_a_15.26.03.png?ex=65c4e489&is=65b26f89&hm=822105ea1c9100f8db64af6d31a9e073dbade98a23d7692621ae90597cc5335c&=&format=webp&quality=lossless&width=1104&height=1194"></img>
  </p>
 <hr>
 
