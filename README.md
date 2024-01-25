@@ -5,6 +5,8 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
+Do you want to improve your buying and selling experience on Vinted ? Our bot is the perfect tool for you. It is an automated program designed so that ads from the online sales platform Vinted are sent directly to your Discord server.
+
 :warning: The code is not open source, to be able to launch the installatuin of the bot contact me on discord: .benjibenji or join http://discord.gg/FweRrkQYPb
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot</h2>
@@ -41,14 +43,6 @@ You can pay by credit card, PayPal, Apple Pay...
 **Which package should I choose ?**
 Even if you don't know how to find your package, you can open a ticket and we will discuss which plan suits you best !
 
-## :sparkles: Features of
+## 💳 Get the robot
 
-✔ No delay 
-✔ Unlimited links. 
-✔ Supports multiple vinted marketplaces ( UK, US, FR, CA and more )
-✔ Bot maintenance
-✔ Easy to use
-
-## :hammer_and_pick: Using the bot
-
-For me to installation your discord bot contact me on discord : .benjibenji or join http://discord.gg/FweRrkQYPb
+To get the robot, join my discord and open a ticket : http://discord.gg/FweRrkQYPb
