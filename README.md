@@ -1,4 +1,4 @@
-<h1 align="center">Bot Vinted Discord</h1>
+<h1 align="center">BOT VINTED FOR DISCORD</h1>
 
 <p align="center">
   <img alt="node" src="https://img.shields.io/node/v/discord.js?style=for-the-badge">
@@ -7,8 +7,7 @@
 
 :warning: The code is not open source, to be able to launch the installatuin of the bot contact me on discord: .benjibenji or join http://discord.gg/FweRrkQYPb
 
-<h2 align="center">📷 Presentation of the bot</h2>
-<p align="center">INFORMATION</p>
+<h2 align="center">⭐ Here are the different formulas as well as an image of the robot</h2>
 <p align="center">
   <img align="center" src="https://media.discordapp.net/attachments/817075211165106187/1197675997236056105/1.png?ex=65bc21b1&is=65a9acb1&hm=45479dbb6a58497d0d01ed60408424d2d7bbfb3a1348c94aed06ded057c2c9f3&=&format=webp&quality=lossless&width=1908&height=1194"></img>
 </p>
