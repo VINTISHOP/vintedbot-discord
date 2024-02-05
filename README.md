@@ -33,9 +33,6 @@ We not only offer access to a Discord like most servers, but we offer you a wide
 You can choose an offer with a subscription at 7.99 euro/month that will give you access to a bot without delay on our Discord and a community of experts in the purchase resale.
 But you can also choose to buy an independent vinted bot for your discord server, this allows you: to choose the items that interest you, invite your friends or even market it. This is your Bot Vinted!
 
-**Is the bot a monthly or one-time payment ?**
-The price marked is a single payment and you must add a subscription of 4 euros per month.
-
 **Is the bot equipped with 0 delay ?**
 Yes, the bot is equipped with 0 delay technology, announcements arrive instantly with a notification.
 
