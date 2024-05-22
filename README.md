@@ -11,13 +11,13 @@ Do you want to improve your buying and selling experience on Vinted ? Our bot is
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot !</h2>
 <p align="center">
-  <img align="center" src="https://media.discordapp.net/attachments/817075211165106187/1197675997236056105/1.png?ex=65bc21b1&is=65a9acb1&hm=45479dbb6a58497d0d01ed60408424d2d7bbfb3a1348c94aed06ded057c2c9f3&=&format=webp&quality=lossless&width=1908&height=1194"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242762202793119774/packages_pour_discord.png?ex=664f03fe&is=664db27e&hm=dce467c63c322d7533ede8495a48ab67e7e8207ebe7a58637c2e962fb87b2aa7&"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://i.postimg.cc/rDzSwmrM/temp-Image9h7-WUb.avif"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242396697309478963/formule_pour_discord.png?ex=664f0117&is=664daf97&hm=d5bf129c74e7df4c8089789f487ae5fba075dc05eb5a20a504368d4030234f1a&"></img>
 </p>
 <p align="center">
- <img src="https://media.discordapp.net/attachments/817075211165106187/1200084231536254976/Capture_decran_2024-01-25_a_15.26.03.png?ex=65c4e489&is=65b26f89&hm=822105ea1c9100f8db64af6d31a9e073dbade98a23d7692621ae90597cc5335c&=&format=webp&quality=lossless&width=1104&height=1194"></img>
+ <img src="https://cdn.discordapp.com/attachments/817075211165106187/1242762358674427996/bot_en_action.png?ex=664f0423&is=664db2a3&hm=1fcc3975b801b8852b73f14df9b1d78f1d73b2c697ecc7c3d9b75fa76efda019&"></img>
  </p>
 <hr>
 
