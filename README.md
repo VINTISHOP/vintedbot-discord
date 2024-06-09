@@ -11,13 +11,13 @@ Do you want to improve your buying and selling experience on Vinted ? Our bot is
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot !</h2>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242762202793119774/packages_pour_discord.png?ex=664f03fe&is=664db27e&hm=dce467c63c322d7533ede8495a48ab67e7e8207ebe7a58637c2e962fb87b2aa7&"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242762202793119774/packages_pour_discord.png?ex=6666befe&is=66656d7e&hm=fa9cf126ee3ab07daa455e30854a70f63a83be4dd0c75e44aaa63032ae8b741a&"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242396697309478963/formule_pour_discord.png?ex=664f0117&is=664daf97&hm=d5bf129c74e7df4c8089789f487ae5fba075dc05eb5a20a504368d4030234f1a&"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242396697309478963/formule_pour_discord.png?ex=6666bc17&is=66656a97&hm=78e70d2c7ef80a67ab042db1d8d216131c2a73017bbdee1bbc14db9c009e54b6&"></img>
 </p>
 <p align="center">
- <img src="https://cdn.discordapp.com/attachments/817075211165106187/1242762358674427996/bot_en_action.png?ex=664f0423&is=664db2a3&hm=1fcc3975b801b8852b73f14df9b1d78f1d73b2c697ecc7c3d9b75fa76efda019&"></img>
+ <img src="https://cdn.discordapp.com/attachments/817075211165106187/1242762358674427996/bot_en_action.png?ex=6666bf23&is=66656da3&hm=3bf2e9e16ba753e4c72f3b23dced4da785279e2ef3e4616c2492c6d0aa384db3&"></img>
  </p>
 <hr>
 
