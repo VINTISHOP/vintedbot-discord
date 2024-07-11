@@ -13,13 +13,13 @@ It is also possible to visit my website : https://vinti-bot.com/
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot !</h2>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242762202793119774/packages_pour_discord.png?ex=6666befe&is=66656d7e&hm=fa9cf126ee3ab07daa455e30854a70f63a83be4dd0c75e44aaa63032ae8b741a&"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242396697309478963/formule_pour_discord.png?ex=669194d7&is=66904357&hm=66143152e9dd8ea943808c49ad866fc0f62e86492b7142a46e34cc4a502dacb9&"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242396697309478963/formule_pour_discord.png?ex=6666bc17&is=66656a97&hm=78e70d2c7ef80a67ab042db1d8d216131c2a73017bbdee1bbc14db9c009e54b6&"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242762202793119774/packages_pour_discord.png?ex=669197be&is=6690463e&hm=e48c6ca029dbeebdd8aa35b1a55584dda464c1598fe95522ff3d642a51fe3de9&"></img>
 </p>
 <p align="center">
- <img src="https://cdn.discordapp.com/attachments/817075211165106187/1242762358674427996/bot_en_action.png?ex=6666bf23&is=66656da3&hm=3bf2e9e16ba753e4c72f3b23dced4da785279e2ef3e4616c2492c6d0aa384db3&"></img>
+ <img src="https://cdn.discordapp.com/attachments/817075211165106187/1242762358674427996/bot_en_action.png?ex=669197e3&is=66904663&hm=6abb13ebb38c5030aeb9e61c2be0477b6f5f9ed568e59060830bcbf2a9935919&"></img>
  </p>
 <hr>
 
@@ -46,4 +46,4 @@ Even if you don't know how to find your package, you can open a ticket and we wi
 
 ## 💳 Get the robot
 
-To get the robot, join my discord and open a ticket : http://discord.gg/FweRrkQYPb
+To get the robot, join my discord and open a ticket : [http://discord.gg/FweRrkQYPb](https://discord.gg/ve7AaRcDsw)
