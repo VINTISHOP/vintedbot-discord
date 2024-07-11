@@ -46,4 +46,4 @@ Even if you don't know how to find your package, you can open a ticket and we wi
 
 ## 💳 Get the robot
 
-To get the robot, join my discord and open a ticket : [http://discord.gg/FweRrkQYPb](https://discord.gg/ve7AaRcDsw)
+To get the robot, join my discord and open a ticket : https://discord.gg/ve7AaRcDsw
