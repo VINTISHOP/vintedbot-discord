@@ -13,10 +13,10 @@ It is also possible to visit my website : https://vinti-bot.com/
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot !</h2>
 <p align="center">
-  <img align="center" src="https://ibb.co/vBwLwd2"></img>
+  <img align="center" src="https://i.ibb.co/mBDhDyQ/packages-pour-discord.png"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://ibb.co/Y3LtkDn"></img>
+  <img align="center" src="https://i.ibb.co/nbLDc3d/formule-pour-discord.png" alt="formule-pour-discord"></img>
 </p>
 <p align="center">
  <img src="https://i.ibb.co/W6FY3T8/Capture-d-cran-2024-07-23-12-30-11.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
