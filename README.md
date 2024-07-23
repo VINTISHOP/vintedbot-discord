@@ -13,13 +13,13 @@ It is also possible to visit my website : https://vinti-bot.com/
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot !</h2>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242396697309478963/formule_pour_discord.png?ex=669194d7&is=66904357&hm=66143152e9dd8ea943808c49ad866fc0f62e86492b7142a46e34cc4a502dacb9&"></img>
+  <img align="center" src="https://ibb.co/vBwLwd2"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1242762202793119774/packages_pour_discord.png?ex=669197be&is=6690463e&hm=e48c6ca029dbeebdd8aa35b1a55584dda464c1598fe95522ff3d642a51fe3de9&"></img>
+  <img align="center" src="https://ibb.co/Y3LtkDn"></img>
 </p>
 <p align="center">
- <img src="https://cdn.discordapp.com/attachments/817075211165106187/1242762358674427996/bot_en_action.png?ex=669197e3&is=66904663&hm=6abb13ebb38c5030aeb9e61c2be0477b6f5f9ed568e59060830bcbf2a9935919&"></img>
+ <img src="https://ibb.co/qd9PnZq"></img>
  </p>
 <hr>
 
