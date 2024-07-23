@@ -19,7 +19,7 @@ It is also possible to visit my website : https://vinti-bot.com/
   <img align="center" src="https://ibb.co/Y3LtkDn"></img>
 </p>
 <p align="center">
- <img src="https://ibb.co/qd9PnZq"></img>
+ <img src="https://i.ibb.co/W6FY3T8/Capture-d-cran-2024-07-23-12-30-11.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
  </p>
 <hr>
 
