@@ -7,7 +7,7 @@
 
 Do you want to improve your buying and selling experience on Vinted ? Our bot is the perfect tool for you. It is an automated program designed so that ads from the online sales platform Vinted are sent directly to your Discord server.
 
-:warning: The code is not open source, to be able to obtain the bot open a ticket on my discord server : https://discord.gg/ve7AaRcDsw
+:warning: The code is not open source, to be able to obtain the bot open a ticket on my discord server : https://discord.gg/XtHueHB9hm
 
 It is also possible to visit my website : https://vinti-bot.com/
 
@@ -46,4 +46,4 @@ Even if you don't know how to find your package, you can open a ticket and we wi
 
 ## 💳 Get the robot
 
-To get the robot, join my discord and open a ticket : https://discord.gg/ve7AaRcDsw
+To get the robot, join my discord and open a ticket : https://discord.gg/XtHueHB9hm
