@@ -9,7 +9,6 @@ Do you want to improve your buying and selling experience on Vinted ? Our bot is
 
 :warning: The code is not open source, to be able to obtain the bot open a ticket on my discord server : https://discord.gg/XtHueHB9hm
 
-It is also possible to visit my website : https://vinti-bot.com/
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot !</h2>
 <p align="center">
