@@ -12,10 +12,10 @@ Do you want to improve your buying and selling experience on Vinted ? Our bot is
 
 <h2 align="center">⭐ Here are the different formulas as well as an image of the robot !</h2>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1284120631222206475/US.png?ex=66e96e88&is=66e81d08&hm=caf0069f35e98d5438e751fdf545ad83c5905f07e95a1e40019e1ff1541e1278&"></img>
+  <img align="center" src="https://i.ibb.co/X5c384S/US.png"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/817075211165106187/1284120614759825428/FR.png?ex=66e96e84&is=66e81d04&hm=17e9dec4952548d12b4a2affa232fbf84f814ede3de855b68553456c21ff5dfa&" alt="formule-pour-discord"></img>
+  <img align="center" src="https://i.ibb.co/4jgX8Mm/FR.png" alt="formule-pour-discord"></img>
 </p>
 <p align="center">
  <img src="https://i.ibb.co/W6FY3T8/Capture-d-cran-2024-07-23-12-30-11.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
